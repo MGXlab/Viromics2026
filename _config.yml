@@ -11,7 +11,7 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Viromics2025"
+title: "Viromics2026"
 
 # Life cycle stage of the lesson
 # See this page for more details: https://cdh.carpentries.org/the-lesson-life-cycle.html
@@ -64,8 +64,8 @@ email: "team@carpentries.org"
 # swc_site: "https://software-carpentry.org"
 # template_repo: "https://github.com/carpentries/styles"
 # training_site: "https://carpentries.github.io/instructor-training"
-workshop_repo: "https://github.com/MGXlab/Viromics2025/"
-workshop_site: "https://mgxlab.github.io/Viromics2025/"
+workshop_repo: "https://github.com/MGXlab/Viromics2026/"
+workshop_site: "https://mgxlab.github.io/Viromics2026/"
 # cc_by_human: "https://creativecommons.org/licenses/by/4.0/"
 
 # Surveys.

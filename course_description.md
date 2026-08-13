@@ -8,7 +8,7 @@ title: "Course description"
 - add statement on AI use
 
 **END TODO**
-
+If you do not have a solid background in linux/bash, please follow this [self-study material](https://github.com/waltercostamb/course_viral-microbiology_2023/blob/main/study_material.md) before the start of the module.
 
 ## Prerequisites
 
@@ -27,11 +27,6 @@ You will learn how to analyse bacteriophage sequences with computational approac
 <p align="center">
     <a href="{{ site.carpentries_site }}"><img src="{{ relative_root_path }}/assets/img/logo_no_highlight.png" alt="Viromics workflow" width="1600" /></a>
 </p>
-
-At the end of the module, you will have the opportunity to present your work to your classmates and the teachers.
-
-If you do not have a solid background in linux/bash, please follow this [self-study material](https://github.com/waltercostamb/course_viral-microbiology_2023/blob/main/study_material.md) before the start of the module.
-
   
 ## Viromics
 

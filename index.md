@@ -71,11 +71,5 @@ Your final grade is based on an evaluation of three factors.
 ## Statement on AI use
 
 
-At the top of the webpage, under "Extras", you will find notes on:  
-- [accessing the HPC cluster Draco](https://mgxlab.github.io/Viromics2025/draco/index.html)
-- [submitting jobs on draco](https://mgxlab.github.io/Viromics2025/sbatch/index.html)
-- [setting up a python virtual environment](https://mgxlab.github.io/Viromics2025/virtualenv/index.html)
-- [ideas for projects](https://mgxlab.github.io/Viromics2025/ideas_projects/index.html)
-
 
 {% include links.md %}

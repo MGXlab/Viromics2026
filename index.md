@@ -3,8 +3,8 @@ layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
-This is the website of the advanced module "Viromics Bioinformatics" of the Masters program in Microbiology of the Friedrich-Schiller University of Jena.
+This is the website of "Viromics Bioinformatics", an advanced module of the Masters program in Microbiology at Friedrich-Schiller University of Jena.
 
-It consists of 60 hours dry-lab work to be completed in two weeks.
+Venue: Balance of the Microverse, Rosalind Franklin Straße 1, 07745 Jena 
 
 {% include links.md %}

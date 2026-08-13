@@ -6,14 +6,19 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 **TODO**
 - add project description
-- add grading rubric (more detailed breakdown, e.g. originality). Perhaps move to a separate page? 
+- add grading rubric (more detailed breakdown, e.g. originality). Perhaps move to a separate page?
+- add statement on AI use
+- move schedule to separate page?
 
 **END TODO**
 
-Welcome to the advanced module "Viromics Bioinformatics" of the Masters program in Microbiology of the Friedrich-Schiller University of Jena.
+This is the website of the advanced module "Viromics Bioinformatics" of the Masters program in Microbiology of the Friedrich-Schiller University of Jena.
 
-It consists of 60 hours dry lab work to be completed in two weeks.
+It consists of 60 hours dry-lab work to be completed in two weeks.
 
+## Prerequisites
+
+## Purpose and contents of the class
 You will learn how to analyse bacteriophage sequences with computational approaches, covering the following topics:
   - Sequencing quality control
   - Assembly of long-read sequences
@@ -63,6 +68,7 @@ Your final grade is based on an evaluation of three factors.
 - Your Lab Notebook (approach to address hands-on questions/exercises, tidiness/reproducibility, notes/questions/discussion points): 30%
 - The presentation of your final project: 40%
 
+## Statement on AI use
 
 
 At the top of the webpage, under "Extras", you will find notes on:  

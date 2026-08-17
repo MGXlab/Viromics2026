@@ -5,7 +5,7 @@ permalink: /laptop_setup/index.html
 ---
 
 ### What you need to do before the course
-Before the course starts, please complete the steps below. This will make sure that you can connect to Draco, the high-performance computing (HPC) cluster at the University of Jena, when the course begins.
+Please complete all steps below **before the first day of the course**. This will make sure that you can connect to Draco, the high-performance computing (HPC) cluster at the University of Jena, when the course begins.
 
 You will need:
 
@@ -13,7 +13,7 @@ You will need:
 - your URZ username and password;
 - an internet connection.
 
-Please complete all steps **before the first day of the course**. If you have trouble connecting to Draco, contact the course instructors before the course starts so that we can help you troubleshoot the problem.
+If you have trouble with any of these steps, contact the course instructors before the course starts so that we can help you troubleshoot the problem.
 
 ## 1. Install and connect to University VPN
 
@@ -37,7 +37,7 @@ Download and install [Visual Studio Code](https://code.visualstudio.com/) for yo
 You will use this extension throughout the course to work with files and run commands on Draco.
 
 ## 4. Connect to Draco
-> Make sure that your **University VPN is connected** before continuing.
+> **Important:** Make sure that your **University VPN is connected** before continuing.
 
 1. Open VS Code
 
@@ -59,12 +59,10 @@ If the connection is succesful, VS Code will show that you are connected to a re
 
 ## 5. Check that you can access Draco. 
 Open a terminal in VS Code using **Terminal -> new window** or open the window in the lower right corner. 
-Type `hostname` and enter.
+Type `hostname` and press enter.
 This should return the hostname of the Draco login node to which you are connected (either 'login1.cluster' or login2.cluster'). 
 
-Then run: 
-`pwd`
-this should show your home directory on Draco.
+Then run: `pwd`. This should show your home directory on Draco.
 
 
-**That's it!** You do not need to learn any Bash commands before the course. We will introduce the terminal and the commands you need during the course.
+**That's it!** You can now close VS Code. You do not need to learn any Bash commands before the course. We will introduce the terminal and the commands you need during the course.

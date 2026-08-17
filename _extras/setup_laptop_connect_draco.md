@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Set up your computer and accessing Draco
+title: Before the Viromics module starts
 permalink: /laptop_setup/index.html
 ---
 
-### What you need to do before the course
-Please complete all steps below **before the first day of the course**. This will make sure that you can connect to Draco, the high-performance computing (HPC) cluster at the University of Jena, when the course begins.
+### Set up your computer and accessing Draco
+Please complete all steps below **before the first day of the Viromics module**. This will make sure that you can connect to Draco, the high-performance computing (HPC) cluster at the University of Jena, when the course begins.
 
 You will need:
 

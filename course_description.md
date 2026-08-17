@@ -8,9 +8,9 @@ title: "Course description"
 - add statement on AI use
 
 **END TODO**
-If you do not have a solid background in linux/bash, please follow this [self-study material](https://github.com/waltercostamb/course_viral-microbiology_2023/blob/main/study_material.md) before the start of the module.
 
 ## Prerequisites
+Before the first day of the Viromics module, please set up your laptop according to [these instructions](https://mgxlab.github.io/Viromics2026/laptop_setup/index.html).
 
 ## Purpose and contents of the class
 You will learn how to analyse bacteriophage sequences with computational approaches, covering the following topics:

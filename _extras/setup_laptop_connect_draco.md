@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Before the course: set up your computer and accessing Draco
+title: Set up your computer and accessing Draco
 permalink: /laptop_setup/index.html
 ---
 

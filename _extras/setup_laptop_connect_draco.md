@@ -1,4 +1,8 @@
-## Before the course: set up your computer and accessing Draco
+---
+layout: page
+title: Before the course: set up your computer and accessing Draco
+permalink: /laptop_setup/index.html
+---
 
 ### What you need to do before the course
 Before the course starts, please complete the steps below. This will make sure that you can connect to Draco, the high-performance computing (HPC) cluster at the University of Jena, when the course begins.

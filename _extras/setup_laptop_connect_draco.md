@@ -19,7 +19,7 @@ Please complete all steps **before the first day of the course**. If you have tr
 
 Install a VPN following [these instructions](https://www.uni-jena.de/12965/vpn-softwaredownload-und-installation). Log in using your URZ credentials and make sure that you can successfully connect to the VPN. 
 
->>**Important:** You need to be connected to the University VPN when accessing Draco from outside the University network.
+>**Important:** You need to be connected to the University VPN when accessing Draco from outside the University network.
 
 ## 2. Install VS Code
 
@@ -37,7 +37,7 @@ Download and install [Visual Studio Code](https://code.visualstudio.com/) for yo
 You will use this extension throughout the course to work with files and run commands on Draco.
 
 ## 4. Connect to Draco
-Make sure that your **University VPN is connected** before continuing.
+> Make sure that your **University VPN is connected** before continuing.
 
 1. Open VS Code
 
@@ -53,18 +53,18 @@ Make sure that your **University VPN is connected** before continuing.
 
 6. Enter your URZ password when prompted.
 
-If the connection is succesful, VS Code will show that you are connected to a remote host in the lower left corner (in this case login2.draco.uni-jena.de). 
+If the connection is succesful, VS Code will show that you are connected to a remote host in the lower left corner. In the picture below, it is login2.draco.uni-jena.de: 
 
-7. Check that you can access Draco. 
-Open a terminal in VS Code using **Terminal -> new window** or open the windown in the lower right corner. 
-Run: 
-hostname. 
+![image](https://github.com/user-attachments/assets/8e19f0da-2cbd-4119-bc83-8c63d928d544)
+
+## 5. Check that you can access Draco. 
+Open a terminal in VS Code using **Terminal -> new window** or open the window in the lower right corner. 
+Type `hostname` and enter.
 This should return the hostname of the Draco login node to which you are connected (either 'login1.cluster' or login2.cluster'). 
 
 Then run: 
-pwd
+`pwd`
 this should show your home directory on Draco.
 
-![image](https://github.com/user-attachments/assets/8e19f0da-2cbd-4119-bc83-8c63d928d544)
 
 **That's it!** You do not need to learn any Bash commands before the course. We will introduce the terminal and the commands you need during the course.

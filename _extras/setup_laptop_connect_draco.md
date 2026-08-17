@@ -65,4 +65,5 @@ This should return the hostname of the Draco login node to which you are connect
 Then run: `pwd`. This should show your home directory on Draco.
 
 
-**That's it!** You can now close VS Code. You do not need to learn any Bash commands before the course. We will introduce the terminal and the commands you need during the course.
+## That's it! 
+You can now close VS Code. You do not need to learn any Bash commands before the course. We will introduce the terminal and the commands you need during the course.

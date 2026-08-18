@@ -9,6 +9,8 @@ title: "Course description"
 
 **END TODO**
 
+# Viromics - Big data analysis and interpretation (MMB019-9)
+
 ## Prerequisites
 Before the first day of the Viromics module, please set up your laptop according to [these instructions](https://mgxlab.github.io/Viromics2026/laptop_setup/index.html).
 

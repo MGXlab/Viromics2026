@@ -6,21 +6,6 @@ permalink: /draco/index.html
 
 [Draco](https://wiki.uni-jena.de/pages/viewpage.action?pageId=22453002) is a high-performance cluster created and maintained by the Universitätsrechenzentrum (URZ). It is [available for members of Thuringian Universities](http://sternb.gitpages.tpi.uni-jena.de/draco-101-2023-01/#5).  
 
-## SLURM ARCHITECTURE
-
-This is a simplified overview of the slurm architecture. 
-
-![slurm_architecture_simple](https://github.com/user-attachments/assets/f6baeec5-ddf0-413d-909c-aa2d2b947bd5)
-
-
-To log in, you can use [ssh](http://sternb.gitpages.tpi.uni-jena.de/draco-101-2023-01/#15): 
-
-```bash
-# replace <fsuid> with your actual id like ab12cde
-
-ssh <fsuid>@login1.draco.uni-jena.de
-```
-
 ## Getting into Draco
 
 ### Terminal or ssh client  
@@ -48,3 +33,21 @@ Just joking! You can either install the Windows Subystem for Linux (WSL) or **VS
 
 
 Then put in your password and you are in!
+
+## SLURM ARCHITECTURE
+
+Draco uses a job scheduling system called SLURM to manage the assignment of resources within the cluster. 
+To summarize quickly, users log into login nodes, where no heavy computations are allowed. Login nodes are a
+shared resource where users can submit jobs to compute nodes using a few commands SLURM provides. 
+This is a simplified overview of the SLURM architecture: 
+
+![slurm_architecture_simple](https://github.com/user-attachments/assets/f6baeec5-ddf0-413d-909c-aa2d2b947bd5)
+
+
+To log in, you can use [ssh](http://sternb.gitpages.tpi.uni-jena.de/draco-101-2023-01/#15): 
+
+```bash
+# replace <fsuid> with your actual id like ab12cde
+
+ssh <fsuid>@login1.draco.uni-jena.de
+```

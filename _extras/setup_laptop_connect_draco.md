@@ -52,7 +52,7 @@ You will use this extension throughout the course to work with files and run com
 4. Alternatively, you can press the button in the lower left corner:
 ![image](https://github.com/user-attachments/assets/3db3b016-b33f-469f-ac3f-df490d1f34b8)
 
-5. Login using your FSU id ad Draco host (login1.draco.uni-jena.de or login2.draco-uni-jena.de) and press enter:
+5. Login using your FSU id and Draco host (login1.draco.uni-jena.de or login2.draco-uni-jena.de) and press enter:
 ![image](https://github.com/user-attachments/assets/d8e9d52b-6695-4608-a33f-9e4a28d11a04)
 
 6. Enter your URZ password when prompted.

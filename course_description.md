@@ -58,6 +58,6 @@ Your final grade is based on an evaluation of three factors.
 - Presentation of your final project: 40%
 
 ## Statement on AI use
-Large language models (LLMs), such as ChatGPT, Le Chat, and Claude, are increasingly becoming part of the daily work of bioinformaticians. **Nevertheless, we ask you not to use LLMs during the practicals of this course.** This is not because they are never useful, but because using them may hinder your learning more than it helps. We want you to focus on understanding the concepts and analyses yourself. We provide scripts where you mainly need to modify parameters and interpret the results, and discussing questions with your fellow students or the TAs is more useful for your learning than asking an LLM.
+Large language models (LLMs), such as ChatGPT, Le Chat, and Claude, are increasingly becoming part of the daily work of bioinformaticians. **Nevertheless, we advise you not to use LLMs during the practicals of this course.** This is not because they are never useful, but because using them may hinder your learning more than it helps. We want you to focus on understanding the concepts and analyses yourself. We provide scripts where you mainly need to modify parameters and interpret the results, and discussing questions with your fellow students or the TAs is more useful for your learning than asking an LLM.
 
-**If you want, you may use LLMs for your daily report.** If you do, you must include a one-sentence statement describing how you used them.
+**If you decide to use LLMs, you must include a sentence explaining how you used them in your daily report.**

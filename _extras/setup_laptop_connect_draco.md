@@ -15,6 +15,10 @@ You will need:
 
 If you have trouble with any of these steps, contact the course instructors before the course starts so that we can help you troubleshoot the problem.
 
+
+## 0. Connect to Eduroam (when in university buildings)
+If you haven't already, use [these instructions](https://wiki.uni-jena.de/pages/viewpage.action?pageId=22452993#InternetzuganganderUniversit%C3%A4t-englishversion) to connect your laptop to Eduroam. 
+
 ## 1. Install and connect to University VPN
 
 Install a VPN following [these instructions](https://www.uni-jena.de/12965/vpn-softwaredownload-und-installation). Log in using your URZ credentials and make sure that you can successfully connect to the VPN. 

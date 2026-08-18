@@ -6,7 +6,6 @@ title: "Course description"
 - update data section 
 - add project description
 - add grading rubric (more detailed breakdown, e.g. originality).
-- add statement on AI use
 
 **END TODO**
 
@@ -57,7 +56,7 @@ Your final grade is based on an evaluation of three factors.
 - Daily practical reports: 20%
 - Presentation of your final project: 40%
 
-## Statement on AI use
+## Statement on AI/Large Language Model use
 Large language models (LLMs), such as ChatGPT, Le Chat, and Claude, are increasingly becoming part of the daily work of bioinformaticians. **Nevertheless, we advise you not to use LLMs during the practicals of this course.** This is not because they are never useful, but because using them may hinder your learning more than it helps. We want you to focus on understanding the concepts and analyses yourself. We provide scripts where you mainly need to modify parameters and interpret the results, and discussing questions with your fellow students or the TAs is more useful for your learning than asking an LLM.
 
 **If you decide to use LLMs, you must include a sentence explaining how you used them in your daily report.**

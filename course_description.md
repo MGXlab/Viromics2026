@@ -3,6 +3,7 @@ title: "Course description"
 ---
 
 **TODO**
+- morning/afternoon split in theoretical/practical is not maintained in the lessons, perhaps remove?
 - update data section 
 - add project description
 - add grading rubric (more detailed breakdown, e.g. originality).

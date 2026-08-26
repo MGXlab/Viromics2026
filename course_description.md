@@ -34,7 +34,7 @@ We will be using viromics sequencing data from Natia Geliashvili, a PhD student 
 ## Course structure
 The course combines short video lectures, selected readings from research papers, questions, and hands-on analysis of computational data. Each day you will work through these materials at your own pace, combining conceptual learning with practical exercises.
 
-During the practical exercises, you will work with real viromics data and use a range of bioinformatics tools to analyse and interpret the data. The emphasis is not on scripting or running tools, but on understanding what they do, critically evaluating their output, and drawing biological conclusions. Some basic command-line and scripting skills are required, and support will be available throughout the course.
+During the practical exercises, you will work with real viromics data and use a range of bioinformatics tools to analyse and interpret the data. The emphasis is not on scripting or running tools, but on understanding what they do, critically evaluating their output, and drawing biological conclusions. Some command-line and scripting skills are required and will be taught, and support is be available throughout the course.
 
 Each day at 16:00, you will submit a short report (maximum one page) answering the questions from that day's activities. From 16:00–17:00, we will discuss the day's material and results together in a plenary session. Active participation in these discussions is an important part of the course and will contribute to your grade (see "final evaluation" below).
 

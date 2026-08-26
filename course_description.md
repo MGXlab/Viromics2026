@@ -2,14 +2,6 @@
 title: "Course description"
 ---
 
-**TODO**
-- morning/afternoon split in theoretical/practical is not maintained in the lessons, perhaps remove?
-- update data section 
-- add project description
-- add grading rubric (more detailed breakdown, e.g. originality).
-
-**END TODO**
-
 # Viromics - Big data analysis and interpretation (MMB019-9)
 An advanced module of the Masters program in Microbiology at Friedrich-Schiller University of Jena.
 
@@ -35,31 +27,24 @@ In this class, you will learn how to analyse bacteriophage sequences using compu
     <a href="{{ site.carpentries_site }}"><img src="{{ relative_root_path }}/assets/img/logo_no_highlight.png" alt="Viromics workflow" width="1600" /></a>
 </p>
 
-## Data
+## Data (to be updated)
 
 We will be using viromics sequencing data from Natia Geliashvili, a PhD student in [the VEO  Group](https://veo.uni-jena.de/). The samples came from a sediment/river microbial community, into which a target phage and its host were added. The samples were passed through a 0.22um filter and sequenced using [Oxford Nanopore Technologies (ONT) long-read sequencing](https://nanoporetech.com/platform/technology). 
 
 ## Course structure
+The course combines short video lectures, selected readings from research papers, questions, and hands-on analysis of computational data. Each day you will work through these materials at your own pace, combining conceptual learning with practical exercises.
 
-The theoretical parts of the course are covered in the mornings. This includes reading relevant papers, watching video lectures, and discussion of the concepts and tools.
+During the practical exercises, you will work with real viromics data and use a range of bioinformatics tools to analyse and interpret the data. The emphasis is not on scripting or running tools, but on understanding what they do, critically evaluating their output, and drawing biological conclusions. Some basic command-line and scripting skills are required, and support will be available throughout the course.
 
-The practical parts of the course are covered in the afternoons. You will work with real viromics data and use a range of bioinformatics tools to analyse and interpret the data. The focus is on understanding the concepts, evaluating the results, and drawing biological conclusions rather than on programming itself. Some basic command-line and scripting skills are required, and we will be available to help and guide you.
+Each day at 16:00, you will submit a short report (maximum one page) answering the questions from that day's activities. From 16:00–17:00, we will discuss the day's material and results together in a plenary session. Active participation in these discussions is an important part of the course and will contribute to your grade (see "final evaluation" below).
 
-_Solutions for each step are provided. Try to complete the exercises yourself first, but use the solutions if you get stuck or need to move on to the next step._
-
-Each day will end with a plenary discussion of that day. Your participation in this discussion will be important part of your final grade (see below). 
-
-During the second week of the course, you will work on a small independent project using the viromics data and approaches introduced during the course. You will develop a question that you find interesting and design the appropriate bioinformatics analysis to investigate it.
-
-## Final Presentation
-
-You will give a final presentation on Friday 11 September. This is where you can demonstrate your understanding of the material and share what interesting techniques you came up with.
+The final days of the course will be devoted to a mini-project, in which you will apply what you have learned during the course to develop a research question and design the appropriate bioinformatics analyses to to answer it. You will give a presentation about your project on Friday 11 September. 
 
 ## Final evaluation
 
 Your final grade is based on an evaluation of three factors.
-- Participation and engagement (asking questions, helping others): 40%
 - Daily practical reports: 20%
+- Participation and engagement (asking questions, helping others): 40%
 - Presentation of your final project: 40%
 
 ## Statement on AI/Large Language Model use

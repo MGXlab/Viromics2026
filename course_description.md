@@ -45,9 +45,7 @@ The final days of the course will be devoted to a mini-project, in which you wil
 Your final grade is based on an evaluation of three factors.
 - Daily practical reports: 20%
 - Participation and engagement (asking questions, helping others): 40%
-- Presentation of your final project: 40%
-
-The presentation will be graded according to this rubric: https://rubricsgsls.nl/en/rubrics/presentation
+- Presentation of your final project: 40%, graded according to [this rubric](https://rubricsgsls.nl/en/rubrics/presentation). 
 
 ## Statement on AI/Large Language Model use
 Large language models (LLMs), such as ChatGPT, Le Chat, and Claude, are increasingly becoming part of the daily work of bioinformaticians. **Nevertheless, we advise you not to use LLMs during the practicals of this course.** This is not because they are never useful, but because using them may hinder your learning more than it helps. We want you to focus on understanding the concepts and analyses yourself. We provide scripts where you mainly need to modify parameters and interpret the results, and discussing questions with your fellow students or the TAs is more useful for your learning than asking an LLM.
